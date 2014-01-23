@@ -34,9 +34,9 @@ Proyecto final de carrera: Aplicación de los Sistemas de Información Geográfi
 
 ## **EXPERIENCIA LABORAL**
 
-- (Noviembre 2013 - actualidad) Academia Itaca. Profesor de apoyo de Inglés:
+- (Noviembre 2013 - actualidad) **Academia Itaca. Profesor de apoyo de Inglés**:
 : Clases de repaso estudiantes desde primaria a bachillerato.
-- (Diciembre 2008 - 0ctubre 2012) ESMA. Técnico GIS, Análisis Territorial y Desarrollo:
+- (Diciembre 2008 - 0ctubre 2012) **ESMA. Técnico GIS, Análisis Territorial y Desarrollo**:
 : Análisis y desarrollo de metodologías para estudios territoriales.
 : Análisis y desarrollo de aplicaciones informáticas para explotación de datos.
 : Análisis de los requisitos y explotación de GIS (formatos, proyección, terreno, capas, etc.) 
@@ -44,26 +44,26 @@ Proyecto final de carrera: Aplicación de los Sistemas de Información Geográfi
 : Manejo avanzado de sistemas de información geográfica.
 : Delineación CAD/GIS. Producción Cartográfica Temática.
 : Generación de modelos de datos cartográficos.
-- (Abril 2007 - Noviembre 2008) SEIASA DEL NORDESTE. Ayudante Director de Obra:
+- (Abril 2007 - Noviembre 2008) **SEIASA DEL NORDESTE. Ayudante Director de Obra**:
 : Realización de tareas de control técnico de obra, control de tiempos de ejecución, control presupuestario, expropiaciones, mediciones y certificaciones.
 : Toma de decisiones técnicas en obra. Negociación de las mediciones y certificaciones con la empresa ejecutora.
 : Negociación con afectados y usuarios de las obras.
-- (Enero - Marzo 2007) MIGUEL ÁNGEL BARRIENDO (Zaragoza). Jefe de Topografía:
+- (Enero - Marzo 2007) **MIGUEL ÁNGEL BARRIENDO (Zaragoza). Jefe de Topografía**:
 : Realización de la definición geométrica de obra.
 : Responsable de asignar, supervisar y coordinar el trabajo de dos equipos de topografía al cargo.
 : Control geométrico, definición de replanteos, modificados de obra.
-- (Abril 2006 - Junio 2006) Freelance, para la empresa NOVOTECNI SA:
+- (Abril 2006 - Junio 2006) **Freelance, para la empresa NOVOTECNI SA**:
 : Labores de toma de datos de campo para el proyecto LUCAS (European Land Use/Cover Area Frame Statistical Survey) de 620 puntos distribuidos por las provincias de Ciudad Real, Toledo y Cáceres.
-- (Abril 2003 - Diciembre 2006) GOBIERNO DE ARAGÓN. Delineante - Ayudante agrario:
+- (Abril 2003 - Diciembre 2006) **GOBIERNO DE ARAGÓN. Delineante - Ayudante agrario**:
 : Labores de delineación, edición y producción de cartografía técnica y temática.
 : Realización de proyectos de regadío y de concentración parcelaria.
-- (2005) INSTITUTO ARAGONÉS DE ADMINISTRACIÓN PÚBLICA. Formador: Curso Básico de ArcView (80 horas).
+- (2005) **INSTITUTO ARAGONÉS DE ADMINISTRACIÓN PÚBLICA. Formador**: Curso Básico de ArcView (80 horas).
 : Preparación de contenidos teóricos y prácticos del curso y docencia del mismo.
-- (2004) Prácticas en el Centro de Investigación y Tecnología Agraria de Aragón con imágenes multiespectrales (300 horas).
-- (Abril 2002 - Febrero 2003) PEYCO. Responsable de Topografía, Control Medioambiental, Mediciones y Vigilancia en Obra.
-- (Enero - Marzo 2002) HUSO 30 (Huesca). Auxiliar de Topografía.
-- (Febrero - Diciembre 2001) Universidad de Zaragoza en el Campus de Huesca. Becario Centro de Cálculo (10 meses).
-- (Enero 2000 - Diciembre 2001) Clases J.L.F. Clases de todas las asignaturas Primaria, ESO, Bachillerato.
+- (2004) **Prácticas en el Centro de Investigación y Tecnología Agraria de Aragón con imágenes multiespectrales (300 horas)**.
+- (Abril 2002 - Febrero 2003) **PEYCO. Responsable de Topografía, Control Medioambiental, Mediciones y Vigilancia en Obra**.
+- (Enero - Marzo 2002) **HUSO 30 (Huesca). Auxiliar de Topografía**.
+- (Febrero - Diciembre 2001) **Universidad de Zaragoza en el Campus de Huesca. Becario Centro de Cálculo (10 meses)**.
+- (Enero 2000 - Diciembre 2001) **Clases J.L.F**. Clases de todas las asignaturas Primaria, ESO, Bachillerato.
 
 ## **IDIOMAS**
 
@@ -86,33 +86,33 @@ Proyecto final de carrera: Aplicación de los Sistemas de Información Geográfi
 
 ## **FORMACIÓN COMPLEMENTARIA**
 
-- (2014) Desarrollo de Aplicaciones en HTML5 y para Dispositivos Móviles Firefox O.S. MOOC. [www.miriadax.com](www.miriadax.com).
-- (2013) Aplicaciones de R para el análisis de datos en ecosistemas forestales. Departamento de Geomática y el Grupo de Investigación "ERSAF" del Departamento de Ingeniería Forestal de la Escuela Técnica Superior de Ingeniería Agronómica y de Montes. Universidad de Córdoba. (75 horas)    
-- (2013) Métodos avanzados en estadística aplicada. (Nº de Créditos ECTS: 25). UNED
-- (2013) Arduino aplicado a la monitorización ambiental. Departamento de Geomática y el Grupo de Investigación "ERSAF" del Departamento de Ingeniería Forestal de la Escuela Técnica Superior de Ingeniería Agronómica y de Montes. Universidad de Córdoba. (75 horas)
-- (2013) Master programación GIS con PYTHON. [Geospatial training services español](http://geospatialtraininges.com). (160 horas)
-- (2012) LiDAR aplicado al inventario y evaluación de los recursos forestales. Departamento de Geomática y el Grupo de Investigación "ERSAF" del Departamento de Ingeniería Forestal de la Escuela Técnica Superior de Ingeniería Agronómica y de Montes. Universidad de Córdoba. (75 horas)
-- (2012) Curso práctico de uso de Open Data: oportunidades de negocio ligadas a los datos en abierto. UNED.
-- (2011) Programación Orientada a Objetos. Confederación Empresarial de Madrid. Plan de formación intersectorial de la Comunidad de Madrid. (25 horas)
-- (2010) Javascript. Confederación Empresarial de Madrid. Plan de formación intersectorial de la Comunidad de Madrid. (40 horas)
-- (2010) J2EE, Desarrollo web, JSF, Spring. Confederación Empresarial de Madrid. Plan de formación intersectorial de la Comunidad de Madrid. (40 horas)
-- (2010) XML.Confederación  Empresarial de Madrid. Plan de formación intersectoriales de la Comunidad de Madrid. (20 horas)
-- (2010) Curso OnLine de SIG y Teledetección aplicado a la viticultura. Centro Nacional de Formación en Nuevas Tecnologías, ANOVA consulting, ENOSAT, Ministerio de Industria, Comercio y Turismo. (250 horas)
-- (2009) Programación, comunicaciones y gestión de servicios para titulados no informáticos: Experto universitario en programación (Nº de Créditos ECTS: 35). UNED
-- (2009) Curso de Infraestructuras de datos espaciales. Instituto Geográfico Nacional (40 horas).
-- (2007) Jornadas Técnicas sobre tuberías de distribución en redes de riego. Centro Nacional de Tecnología de Regadíos (24 horas).
-- (2005) Herramienta informática aplicada al proceso de concentración parcelaria: CP2000.Dirección General de Desarrollo Rural. Gobierno de Aragón (25 horas).
-- (2004) Curso de Microstation. Dirección General de Desarrollo Rural. Gobierno de Aragón (25 horas).
-- (2003) Topografía con GPS diferencial en tiempo real (RTK). Escuela Politécnica Superior de Huesca (25 horas).
-- (2003) Evaluación de Suelos. Escuela Politécnica Superior de Huesca (120 horas).
-- (2001) Topografía Electrónica. Instituto Nacional de Empleo (300 horas).
-- (2001) Topografía Digital con MDT-TCP. Instituto de Estudios Altoaragoneses (25 horas).
-- (2000) Introducción a la Teledetección. Universidad de Verano de Teruel (40 horas).
-- (2000) Rehabilitación de Suelos degradados. Universidad de Verano de Teruel (30 horas).
-- (2000) AutoCad 2000. Fondo Social Europeo (60 horas).
-- (2000) Clasificación de Suelos. Escuela Politécnica de Huesca (40 horas).
-- (2000) Seminario de Hidráulica de Canales. Escuela Politécnica de Huesca (250 horas).
-- (1999) Gestión Medioambiental. Fondo Social Europeo (100 horas).
+- (2014) **Desarrollo de Aplicaciones en HTML5 y para Dispositivos Móviles Firefox OS**. MOOC. [www.miriadax.com](www.miriadax.com).
+- (2013) **Aplicaciones de R para el análisis de datos en ecosistemas forestales**. Departamento de Geomática y el Grupo de Investigación "ERSAF" del Departamento de Ingeniería Forestal de la Escuela Técnica Superior de Ingeniería Agronómica y de Montes. Universidad de Córdoba. (75 horas)    
+- (2013) **Métodos avanzados en estadística aplicada**. (Nº de Créditos ECTS: 25). UNED
+- (2013) **Arduino aplicado a la monitorización ambiental**. Departamento de Geomática y el Grupo de Investigación "ERSAF" del Departamento de Ingeniería Forestal de la Escuela Técnica Superior de Ingeniería Agronómica y de Montes. Universidad de Córdoba. (75 horas)
+- (2013) **Master programación GIS con PYTHON**. [Geospatial training services español](http://geospatialtraininges.com). (160 horas)
+- (2012) **LiDAR aplicado al inventario y evaluación de los recursos forestales**. Departamento de Geomática y el Grupo de Investigación "ERSAF" del Departamento de Ingeniería Forestal de la Escuela Técnica Superior de Ingeniería Agronómica y de Montes. Universidad de Córdoba. (75 horas)
+- (2012) **Curso práctico de uso de Open Data: oportunidades de negocio ligadas a los datos en abierto**. UNED.
+- (2011) **Programación Orientada a Objetos**. Confederación Empresarial de Madrid. Plan de formación intersectorial de la Comunidad de Madrid. (25 horas)
+- (2010) **Javascript**. Confederación Empresarial de Madrid. Plan de formación intersectorial de la Comunidad de Madrid. (40 horas)
+- (2010) **J2EE, Desarrollo web, JSF, Spring**. Confederación Empresarial de Madrid. Plan de formación intersectorial de la Comunidad de Madrid. (40 horas)
+- (2010) **XML**.Confederación  Empresarial de Madrid. Plan de formación intersectoriales de la Comunidad de Madrid. (20 horas)
+- (2010) **Curso OnLine de SIG y Teledetección aplicado a la viticultura**. Centro Nacional de Formación en Nuevas Tecnologías, ANOVA consulting, ENOSAT, Ministerio de Industria, Comercio y Turismo. (250 horas)
+- (2009) **Programación, comunicaciones y gestión de servicios para titulados no informáticos: Experto universitario en programación** (Nº de Créditos ECTS: 35). UNED
+- (2009) **Curso de Infraestructuras de datos espaciales**. Instituto Geográfico Nacional (40 horas).
+- (2007) **Jornadas Técnicas sobre tuberías de distribución en redes de riego**. Centro Nacional de Tecnología de Regadíos (24 horas).
+- (2005) **Herramienta informática aplicada al proceso de concentración parcelaria: CP2000**.Dirección General de Desarrollo Rural. Gobierno de Aragón (25 horas).
+- (2004) **Curso de Microstation**. Dirección General de Desarrollo Rural. Gobierno de Aragón (25 horas).
+- (2003) **Topografía con GPS diferencial en tiempo real (RTK)**. Escuela Politécnica Superior de Huesca (25 horas).
+- (2003) **Evaluación de Suelos**. Escuela Politécnica Superior de Huesca (120 horas).
+- (2001) **Topografía Electrónica**. Instituto Nacional de Empleo (300 horas).
+- (2001) **Topografía Digital con MDT-TCP**. Instituto de Estudios Altoaragoneses (25 horas).
+- (2000) **Introducción a la Teledetección**. Universidad de Verano de Teruel (40 horas).
+- (2000) **Rehabilitación de Suelos degradados**. Universidad de Verano de Teruel (30 horas).
+- (2000) **AutoCad 2000**. Fondo Social Europeo (60 horas).
+- (2000) **Clasificación de Suelos**. Escuela Politécnica de Huesca (40 horas).
+- (2000) **Seminario de Hidráulica de Canales**. Escuela Politécnica de Huesca (250 horas).
+- (1999) **Gestión Medioambiental**. Fondo Social Europeo (100 horas).
 
 ## **EXPERIENCIA ASOCIATIVA**
 

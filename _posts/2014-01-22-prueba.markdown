@@ -5,9 +5,8 @@ date:   2014-01-22 10:00:29
 categories: prueba
 ---
 
-Poco a poco esto coje forma y tras muchos quebraderos de cabeza esta alojado el blog con jekyll.
-Ahora toca resolver problemas de codificacion para que se vean los acentos (algo con liquid y utf-8).
-Y mejorar el diseño y los contenido.
+Poco a poco esto coge forma, y tras muchos quebraderos de cabeza, está alojado el blog con jekyll.
+Ahora toca resolver problemas de codificación para que se vean los acentos (algo con liquid y utf-8) y mejorar el diseño y los contenidos.
 
 [jekyll-gh]: https://github.com/mojombo/jekyll
 [jekyll]:    http://jekyllrb.com
