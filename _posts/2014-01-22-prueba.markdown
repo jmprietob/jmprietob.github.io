@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Pruebas jekyll"
+date:   2014-01-22 10:00:29
+categories: prueba
+---
+
+Poco a poco esto coje forma y tras muchos quebraderos de cabeza esta alojado el blog con jekyll.
+Ahora toca resolver problemas de codificacion para que se vean los acentos (algo con liquid y utf-8).
+Y mejorar el diseño y los contenido.
+
+[jekyll-gh]: https://github.com/mojombo/jekyll
+[jekyll]:    http://jekyllrb.com

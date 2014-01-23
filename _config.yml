@@ -1,0 +1,69 @@
+title:            De todo un poco
+tagline:          bloc de notas, pie de pagina, posit...
+description:      Desde GIS hasta costura.
+# Your site's domain goes here. Leave localhost server or blank when working locally.
+url:              http://localhost:4000
+
+# Owner/author information
+owner:
+  name:           Jose Manuel Prieto
+  avatar:         perso.jpg
+  bio:            "bloc de notas, pie de pagina, posit..."
+  email:          jmprietob@gmail.com
+  # Social networking links are used in author-bio sidebar. Update and remove as you like.
+  twitter: jmprietob        
+  facebook:       
+  github: jmprietob        
+  linkedin: josemanuelprietoblazquez
+  instagram: jmprietob
+  lastfm:         
+  tumblr:         
+  # For Google Authorship https://plus.google.com/authorship
+  google_plus:  +JoséManuelPrieto_jmprietob  
+
+# Analytics and webmaster tools stuff goes here
+google_analytics:   
+google_verify:      
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:        
+
+# Links to include in top navigation
+# For external links add external: true
+links:
+  - title: Sobre mi
+    url: /about/
+  - title: Posts
+    url: /posts/
+  - title: Meteorología
+    url: /meteo/
+  - title: CV
+    url: /cv/	
+  - title: De todo un poco
+    url: http://jmprietob.github.io
+    external: true
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:    Europe/Madrid
+future:      true
+pygments:    true
+markdown:    kramdown
+encoding:    utf-8
+# https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink:   /:categories/:title/
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: false
+
+  coderay:
+    coderay_line_numbers: 
+    coderay_line_numbers_start: 1
+    coderay_tab_width: 4
+    coderay_bold_every: 10
+    coderay_css: class
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
