@@ -2,7 +2,8 @@
 layout: post
 title:  "Curso Firefox OS"
 date:   2014-01-29 10:00:00
-categories: Formacion 
+categories: Formacion
+comments: true
 ---
 
 
