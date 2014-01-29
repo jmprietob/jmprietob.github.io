@@ -38,9 +38,6 @@ links:
     url: /meteo/
   - title: CV
     url: /cv/	
-  - title: De todo un poco
-    url: http://jmprietob.github.io
-    external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/Madrid

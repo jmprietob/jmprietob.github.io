@@ -32,7 +32,7 @@ Esta sección se ira actualizando dos veces por semana con el modelo actual.
 
 #### Sobre los datos
 
-Software [IDV](http://www.unidata.ucar.edu) (hay que registrarse para su descarca)
+Software [IDV](http://www.unidata.ucar.edu) (hay que registrarse para su descarga)
 Servidor de datos de [Meteogalicia]( http://www.meteogalicia.es/web/modelos/threddsIndex.action?request_locale=es)
 El servidor tiene datos de modelos de prediccion con diferente tamaño de cuadrícula (4, 12, 36 km) y en diferente formato (wms, grib, netcdf).
 Se pueden generar animaciones o capturas de imagenes.
