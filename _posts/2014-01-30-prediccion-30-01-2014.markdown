@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Imágenes del modelo de predicción a partir del 30 de enero"
+date:   2014-01-30 14:00:00
+categories: prediccion
+comments: true
+---
+
+Animaciones creadas con el software [IDV](http://www.unidata.ucar.edu) con los datos de modelo meteorológico WRF de [Meteogalicia]( http://www.meteogalicia.es/web/modelos/threddsIndex.action?request_locale=es).
+Este tiene duración de 97 horas desde las 00:00 del día 30 de enero.
+Los modelos de predicción meteorológica suelen acertar las primeras 72 horas. Mas allá la incertidumbre aumenta.
+
+#### Precipitación
+La animación se compone de un mapa de nubosidad (nubes medias y bajas) y de la cantidad de precipitación.
+<figure>
+	<img src="/images/precipitacion30012014.gif">
+</figure>
+
+#### Viento
+La animación se compone de un mapa de la velocidad del viento, donde los colores azulados se corresponden a baja velocidad y los rojizoa a velocidad alta, en este caso el máximo son 15-16 m/s (unos 60 km/h).
+Las flechas indican la dirección del viento y el tamaño está relaccionado con la velocidad.
+<figure>
+	<img src="/images/viento30012014.gif">
+</figure>
