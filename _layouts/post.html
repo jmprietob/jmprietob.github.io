@@ -30,6 +30,14 @@
     <div class="article-wrap">
       {{ content }}
       <hr />
+	  
+	    <span class="social-share-facebook">
+            <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}" title="Share on Facebook" itemprop="Facebook"><i class="icon-facebook"></i> Like</a></span>
+        <span class="social-share-twitter">
+            <a href="https://twitter.com/intent/tweet?text={{ site.url }}{{ page.url }}" title="Share on Twitter" itemprop="Twitter"><i class="icon-twitter"></i> Tweet</a></span>
+        <span class="social-share-googleplus">
+            <a href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" title="Share on Google Plus" itemprop="GooglePlus"><i class="icon-google-plus"></i> +1</a></span>
+            
 	  <footer role="contentinfo">
         <div class="article-author-bottom">
           {% include _author-bio.html %}

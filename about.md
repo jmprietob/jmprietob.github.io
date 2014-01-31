@@ -6,7 +6,7 @@ tagline: De todo un poco
 tags: [about]
 modified: 1-1-2014
 image:
-  feature: texture-feature-02.jpg
+  feature: texture-feature-04.jpg
   credit: Texture Lovers
   creditlink: http://texturelovers.com
 ---

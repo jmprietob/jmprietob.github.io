@@ -5,7 +5,7 @@ title: Mi CV
 description: "Mi experiencia laboral"
 tags: [cv, personal]
 image:
-  feature: texture-feature-02.jpg
+  feature: texture-feature-03.jpg
   credit: Texture Lovers
   creditlink: http://texturelovers.com
 ---

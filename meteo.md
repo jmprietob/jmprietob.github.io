@@ -2,17 +2,17 @@
 layout: page
 permalink: /meteo/
 title: Meteorología
-description: "El modelo de la semana"
-tags: [Meteo, prueba]
+description: "Información general sobre meteo"
+tags: [meteo, prediccion]
 image:
-  feature: texture-feature-02.jpg
-  credit: Texture Lovers
-  creditlink: http://texturelovers.com
+  feature: texture-feature-01.jpg
+  credit: jmprietob
+  creditlink: http://jmprietob.github.io
 ---
 
 <section id="table-of-contents" class="toc">
   <header>
-    <h3 >Contents</h3>
+    <h3 >Contenido</h3>
   </header>
 <div id="drawer" markdown="1">
 *  Auto generated table of contents
@@ -20,19 +20,26 @@ image:
 </div>
 </section><!-- /#table-of-contents -->
 
-Esta sección se ira actualizando dos veces por semana con el modelo actual.
+Un [modelo númerico de predicción meteorológica](http://es.wikipedia.org/wiki/Modelo_num%C3%A9rico_de_predicci%C3%B3n_meteorol%C3%B3gica) realiza, partiendo de un estado inicial con una atmósfera determinadas, una simulación de la evolución atmosférica a través de métodos numéricos.
+
+### Sobre el modelo
+El modelo utilizado es el [WRF](http://www.wrf-model.org), que se basa en el modelo [GFS](http://es.wikipedia.org/wiki/Global_Forecast_System) (un modelo más global). El modelo WRF cubre casi toda Europa y el Mediterraneo. Las condiciones iniciales y los límites vienen del modelo GFS. Las previsiones incluyen velocidad, dirección y rafagas de viento, temperatura, nubosidad total y precipitaciones. 
+
+### Sobre los datos
+El servidor tiene datos de modelos de predicción con diferente tamaño de cuadrícula (4, 12, 36 km) y en diferente formato (wms, grib, netcdf). El servidor de datos utilizado es el de [Meteogalicia]( http://www.meteogalicia.es/web/modelos/threddsIndex.action?request_locale=es).
 
 ### Animación de modelo
+Para las animaciones utilizo el software [IDV](http://www.unidata.ucar.edu), que es gratuito y tiene licencia GPL, aunque hay que registrarse para su descarga.
 
-#### GIF animado
-
+#### GIF animado de ejemplo
 <figure>
 	<img src="/images/anima.gif">
-	</figure>
+</figure>
 
-#### Sobre los datos
-
-Software [IDV](http://www.unidata.ucar.edu) (hay que registrarse para su descarga)
-Servidor de datos de [Meteogalicia]( http://www.meteogalicia.es/web/modelos/threddsIndex.action?request_locale=es)
-El servidor tiene datos de modelos de prediccion con diferente tamaño de cuadrícula (4, 12, 36 km) y en diferente formato (wms, grib, netcdf).
-Se pueden generar animaciones o capturas de imagenes.
+### Webs sobre meteorología
+A parte de la [AEMET](http://www.aemet.es), existen muchas páginas y software donde uno puede investigar. Aquí os dejo algunos enlaces:
+- [ZyGRIB](http://www.zygrib.org/): software opensource donde puedes descargarte desde el mismo programa los datos del modelo GFS del NOAA para el área del muldo que quieras.
+- [Santander Meteorology Group](http://www.meteo.unican.es/imeteo/home): datos del modelo WFS, mapas.
+- [Grupo de Física de la Atmósfera de la Universidad de León](http://gfa.unileon.es/?q=es/node/35): más centrado en Castilla León también tienen datos de observación y predicción.
+- [MeteoCAT](http://www.meteo.cat/servmet/index.html): centrado en Cataluña.
+- [euskalmet](http://www.euskalmet.euskadi.net/s07-5853x/es/meteorologia/home.apl?e=5): la agencia vasca de meteorología.
