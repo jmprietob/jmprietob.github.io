@@ -6,9 +6,9 @@ tagline: De todo un poco
 tags: [about]
 modified: 1-1-2014
 image:
-  feature: texture-feature-04.jpg
-  credit: Texture Lovers
-  creditlink: http://texturelovers.com
+  feature: texture-feature-02.jpg
+  credit: jmprietob
+  creditlink: http://jmprietob.github.io
 ---
 
 Soy Ingeniero Agrícola, apasionado de los GIS, GPS, fotografía, naturaleza.

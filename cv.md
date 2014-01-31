@@ -5,14 +5,14 @@ title: Mi CV
 description: "Mi experiencia laboral"
 tags: [cv, personal]
 image:
-  feature: texture-feature-03.jpg
-  credit: Texture Lovers
-  creditlink: http://texturelovers.com
+  feature: texture-feature-02.jpg
+  credit: jmprietob
+  creditlink: http://jmprietob.github.io
 ---
 
 <section id="table-of-contents" class="toc">
   <header>
-    <h3 >Contents</h3>
+    <h3 >Contenido</h3>
   </header>
 <div id="drawer" markdown="1">
 *  Auto generated table of contents
