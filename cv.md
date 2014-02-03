@@ -6,7 +6,7 @@ description: "Mi experiencia laboral"
 tags: [cv, personal]
 image:
   feature: texture-feature-02.jpg
-  credit: jmprietob
+  credit: credit: José Manuel Prieto Blázquez
   creditlink: http://jmprietob.github.io
 ---
 

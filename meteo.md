@@ -6,7 +6,7 @@ description: "Información general sobre meteo"
 tags: [meteo, prediccion]
 image:
   feature: texture-feature-01.jpg
-  credit: jmprietob
+  credit: José Manuel Prieto Blázquez
   creditlink: http://jmprietob.github.io
 ---
 

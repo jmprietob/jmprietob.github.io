@@ -7,7 +7,7 @@ tags: [about]
 modified: 1-1-2014
 image:
   feature: texture-feature-02.jpg
-  credit: jmprietob
+  credit: credit: José Manuel Prieto Blázquez
   creditlink: http://jmprietob.github.io
 ---
 
