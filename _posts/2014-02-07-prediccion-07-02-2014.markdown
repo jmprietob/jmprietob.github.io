@@ -6,6 +6,16 @@ categories: prediccion
 comments: true
 ---
 
+<section id="table-of-contents" class="toc">
+  <header>
+    <h3 >Contenido</h3>
+  </header>
+<div id="drawer" markdown="1">
+*  Auto generated table of contents
+{:toc}
+</div>
+</section><!-- /#table-of-contents -->
+
 Esta animación no la he realizado con [IDV](http://www.unidata.ucar.edu). Para realizarla he utilizado [R](http://www.r-project.org/) e [ImageMagick](http://www.imagemagick.org/script/index.php).
 Los datos siguen siendo de [Meteogalicia]( http://www.meteogalicia.es/web/modelos/threddsIndex.action?request_locale=es).
 
@@ -63,3 +73,9 @@ for (i in 1:nlayers(p)) {
 } 
 {% endhighlight %}
 Una vez creadas las imágenes, desde la consola ejecutamos **convert -delay 50 precipitacion_*.png precSnowlevel.gif**  y se generaría el gif animado (comando de [ImageMagick](http://www.imagemagick.org/script/index.php)).
+
+#### Viento
+Parece que viene **Ruth** este fin de semana. Vientos de mas 25 m/s (mas de 100 km/h). Animación realizada con [IDV](http://www.unidata.ucar.edu) y los datos de [Meteogalicia]( http://www.meteogalicia.es/web/modelos/threddsIndex.
+<figure>
+	<img src="/images/viento070214.gif">
+</figure>
