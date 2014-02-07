@@ -75,7 +75,7 @@ for (i in 1:nlayers(p)) {
 Una vez creadas las imágenes, desde la consola ejecutamos **convert -delay 50 precipitacion_*.png precSnowlevel.gif**  y se generaría el gif animado (comando de [ImageMagick](http://www.imagemagick.org/script/index.php)).
 
 #### Viento
-Parece que viene **Ruth** este fin de semana. Vientos de mas 25 m/s (mas de 100 km/h). Animación realizada con [IDV](http://www.unidata.ucar.edu) y los datos de [Meteogalicia]( http://www.meteogalicia.es/web/modelos/threddsIndex.
+Parece que viene **Ruth** este fin de semana. Vientos de mas 25 m/s (mas de 100 km/h). Animación realizada con [IDV](http://www.unidata.ucar.edu) y los datos de [Meteogalicia](http://www.meteogalicia.es/web/modelos/threddsIndex).
 <figure>
 	<img src="/images/viento070214.gif">
 </figure>
