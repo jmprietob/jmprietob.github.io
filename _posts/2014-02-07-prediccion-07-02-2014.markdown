@@ -1,0 +1,65 @@
+---
+layout: post
+title:  "Modelo de predicción a partir del 7 de febrero"
+date:   2014-02-07 00:00:00
+categories: prediccion
+comments: true
+---
+
+Esta animación no la he realizado con [IDV](http://www.unidata.ucar.edu). Para realizarla he utilizado [R](http://www.r-project.org/) e [ImageMagick](http://www.imagemagick.org/script/index.php).
+Los datos siguen siendo de [Meteogalicia]( http://www.meteogalicia.es/web/modelos/threddsIndex.action?request_locale=es).
+
+#### Precipitación
+La animación se compone de un mapa de nubosidad (nubes medias y bajas), de la cantidad de precipitación (azul), nieve (rojo) y la cota de nieve (línea gris y números con la altura).
+<figure>
+	<img src="/images/precSnowlevel.gif">
+</figure>
+
+#### Código R
+
+{% highlight ruby %}
+## Archivo netcdf de meteogalicia
+archivo <- "subset_20140206_1200.nc"
+
+##Secuencia horaria de cada capa del modelo
+idx <- seq(as.POSIXct('2014-02-06 13:00:00', tz="UTC"), as.POSIXct('2014-02-10 00:00:00', tz="UTC"), 'hour')
+
+## Leemos la variable snow_level y le asiginamos su proyección
+s <- stack(archivo, varname = "snowlevel")
+proj4string(s) <- CRS("+proj=lcc +lon_0=-14.1 +lat_0=34.823 +lat_1=43 +lat_2=43 +x_0=536402.3 +y_0=-18558.61 +units=km +ellps=WGS84")
+
+## variable nubes medias y altas
+n <- stack(archivo, varname = "cft")
+proj4string(n) <- CRS("+proj=lcc +lon_0=-14.1 +lat_0=34.823 +lat_1=43 +lat_2=43 +x_0=536402.3 +y_0=-18558.61 +units=km +ellps=WGS84")
+## para la leyenda
+pN <- seq(0.1,1,by=0.05)
+paletaN <- colorRampPalette(c("white","darkgrey"), space = "rgb")
+colsN <- paletaN(length(pN)-1)
+
+## Variable precipitacion 
+p <- stack(archivo, varname = "prec")
+proj4string(p) <- CRS("+proj=lcc +lon_0=-14.1 +lat_0=34.823 +lat_1=43 +lat_2=43 +x_0=536402.3 +y_0=-18558.61 +units=km +ellps=WGS84")
+pP <- seq(0.1,10,by=0.1)
+paletaP <- colorRampPalette(c("cornflowerblue","darkblue"), space = "rgb")
+colsP <- paletaP(length(pP)-1)
+
+## MDT
+mdt <- raster("elevaciones.tif")
+proj4string(mdt)<- CRS("+proj=lcc +lon_0=-14.1 +lat_0=34.823 +lat_1=43 +lat_2=43 +x_0=536402.3 +y_0=-18558.61 +units=km +ellps=WGS84")
+pMDT <- seq(0.1,3500,by=1)
+paletaMDT <- colorRampPalette(c("darkgoldenrod4", "darkgoldenrod1", "chartreuse3", "forestgreen", "darkgreen", "darkolivegreen"), space = "rgb")
+colMDT <- paletaMDT(length(pMDT)-1)
+
+## Bucle for para generar todas la imágenes
+for (i in 1:nlayers(p)) { 
+	base<-spplot(mdt,col.regions=colMDT, at=pMDT,
+			main=paste(idx[i]),
+	        par.settings = list(panel.background=list(col="aquamarine")))
+	nubes<- spplot(n[[i]],col.regions=colsN, at=pN)
+	preci <- spplot(p[[i]],col.regions=colsP, at=pP)+contourplot(s[[i]],col="darkgrey")
+	png(paste("precipitacion_",(100+i),".png",sep=""),width=600, height=600,bg="white")
+	    print(base+nubes+preci)
+	dev.off()
+} 
+{% endhighlight %}
+Una vez creadas las imágenes, desde la consola ejecutamos **convert -delay 50 precipitacion_*.png precSnowlevel.gif**  y se generaría el gif animado (comando de [ImageMagick](http://www.imagemagick.org/script/index.php)).
