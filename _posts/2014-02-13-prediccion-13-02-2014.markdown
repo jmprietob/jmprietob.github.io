@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Modelo de predicción a partir del 13 de febrero"
+date:   2014-02-13 15:00:00
+categories: prediccion
+comments: true
+---
+
+
+Estas animaciones han sido realizadas con el software [IDV](http://www.unidata.ucar.edu). Los datos son de [Meteogalicia]( http://www.meteogalicia.es/web/modelos/threddsIndex.action?request_locale=es).
+
+#### Precipitación
+La animación se compone de un mapa de nubosidad (nubes medias y bajas), de la cantidad de precipitación (azul) y nieve (tono verdoso).
+<figure>
+	<img src="/images/precipitacion13022014.gif">
+</figure>
+
+#### Viento
+Se acerca otra ciclogénesis explosiva. La animación se compone de una mapa base de la velocidad del viento (hasta más de 20 m/s) y su dirección.
+<figure>
+	<img src="/images/viento13022014.gif">
+</figure>
