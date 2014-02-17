@@ -10,7 +10,7 @@ Tras una consulta de a que hora iba a nevar en un sitio, se me ocurrió extraer 
 <figure>
 	<img src="/images/Rplot.png">
 </figure>
-El proyecto lo he realizado en [R](http://www.r-project.org/) aprovechando parte del código de un nota [anterior](http://jmprietob.github.io/prediccion/prediccion-07-02-2014/). La siguiente fase sería crear una pequeña aplicación web (estoy investigando [shiny](http://www.rstudio.com/shiny/)) donde el usuario introduce unas coordenadas y se le genera las gráficas para ese punto.
+El proyecto lo he realizado en [R](http://www.r-project.org/) aprovechando parte del código de un nota [anterior](http://jmprietob.github.io/prediccion/prediccion-07-02-2014/). La siguiente fase sería crear una pequeña aplicación web (estoy investigando [shiny](http://www.rstudio.com/shiny/)) donde el usuario introduce unas coordenadas y se generan las gráficas para ese punto.
 
 ### Código R
 
