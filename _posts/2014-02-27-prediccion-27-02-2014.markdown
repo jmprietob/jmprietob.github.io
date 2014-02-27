@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Modelo a partir del 27 de febrero"
+date:   2014-02-27 14:00:00
+categories: prediccion
+comments: true
+---
+
+Estas animaciones han sido realizadas con el software [IDV](http://www.unidata.ucar.edu). Los datos son de [Meteogalicia]( http://www.meteogalicia.es/web/modelos/threddsIndex.action?request_locale=es).
+
+#### Precipitación
+La animación se compone de un mapa de nubosidad (nubes medias y bajas), de la cantidad de precipitación y nieve (naranja).
+<figure>
+	<img src="/images/prec_27-02-2014.gif">
+</figure>
+
+#### Para un punto concreto
+Un amigo posiblemente vaya a la sierra de Guadarrama este fin de semana. Posiblemente suban al pico Peñalara para ponerse crampones y piolets:
+<figure>
+	<img src="/images/Penalara.png">
+</figure>
+Y para los que nos quedamos en la ciudad:
+<figure>
+	<img src="/images/Madrid.png">
+</figure>
