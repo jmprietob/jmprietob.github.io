@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "Aplicación Shiny"
+date:   2014-03-04 09:00:00
+categories: programacion
+comments: true
+---
+
+Tras unos días trasteando con [R](www.r-project.org), su libreria [shiny](www.rstudio.com/shiny/), [Rstudio](www.rstudio.com), y [my.shinyapps.io](https://my.shinyapps.io/), he consegido desarrollar una aplicación sencilla.
+Esta consiste en la introducción de unas coordenadas y la extracción de los datos de diferentes variables para ese punto.
+Con esos datos se crea un gráfico y se muestra un mapa de localización de ese punto.
+Se puede encontrar [aquí](https://jmprietob.shinyapps.io/meteo/).
+<figure>
+	<img src="/images/shinyapp.png">
+</figure>
+
+#### [R](www.r-project.org)
+
+[R](www.r-project.org) es un lenguaje y entorno de programación para análisis estadístico y gráfico. Se trata de un proyecto de software libre, resultado de la implementación GNU del lenguaje S. R y S son muy populares en el campo de la investigación biomédica, la bioinformática y las matemáticas financieras. (fuente: [Wikipedia](http://es.wikipedia.org/wiki/R_%28lenguaje_de_programaci%C3%B3n%29))
+
+#### [shiny](www.rstudio.com/shiny/)
+
+[shiny](www.rstudio.com/shiny/) es una libreria de R que permite realizar aplicaciones web interactivas.
+
+#### [Rstudio](www.rstudio.com)
+
+[Rstudio](www.rstudio.com) es un entorno de desarrollo para [R](www.r-project.org).
+
+#### [my.shinyapps.io](https://my.shinyapps.io/)
+
+[my.shinyapps.io](https://my.shinyapps.io/) es un servicio de alojamiento de aplicaciones shiny que está en fase alpha.
