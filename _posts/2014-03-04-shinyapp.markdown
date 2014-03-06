@@ -11,7 +11,7 @@ Esta consiste en la introducción de unas coordenadas y la extracción de los da
 Con esos datos se crea un gráfico y se muestra un mapa de localización de ese punto.
 Se puede encontrar [aquí](https://jmprietob.shinyapps.io/meteo/).
 <figure>
-	<img src="/images/shinyapp.png">
+	<img src="/images/shinyapp.PNG">
 </figure>
 
 #### [R](www.r-project.org)
