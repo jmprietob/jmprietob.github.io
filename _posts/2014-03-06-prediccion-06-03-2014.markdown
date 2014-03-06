@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Modelo a partir del 6 de marzo"
+date:   2014-03-06 14:00:00
+categories: prediccion
+comments: true
+---
+
+Estas animaciones han sido realizadas con el software [IDV](http://www.unidata.ucar.edu). Los datos son de [Meteogalicia]( http://www.meteogalicia.es/web/modelos/threddsIndex.action?request_locale=es).
+
+#### Precipitación
+La animación se compone de un mapa de nubosidad (nubes medias y bajas), de la cantidad de precipitación y nieve (naranja). Parece que poca o ninguna.
+<figure>
+	<img src="/images/prec_06-03-2014.gif">
+</figure>
+
+#### Viento
+<figure>
+	<img src="/images/viento_06-03-2014.gif">
+</figure>
+
+#### Un punto concreto
+Podéis probar la aplicación shiny alojada en [shinyapps](https://my.shinyapps.io/) para extraer datos de precipitación, temperatura, cota de nieve para una latitud y longitud (datos dentro de España).
+[Aplicación meteo](https://jmprietob.shinyapps.io/meteo/).
+
