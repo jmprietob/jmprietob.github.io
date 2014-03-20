@@ -16,7 +16,7 @@ La animación se compone de un mapa de nubosidad (nubes medias y bajas), de la c
 </figure>
 
 #### Viento
-En esta ocasión hay un mapa base de velocidad y la dirección se representa con flechas con barbas.
+En esta ocasión hay un mapa base de velocidad y la dirección se representa con flechas de diferentes tamaños según su velocidad.
 <figure>
 	<img src="/images/viento_20-03-2014.gif">
 </figure>
