@@ -1,10 +1,16 @@
 ---
 layout: post
 title:  "Shinyapp"
+description: "R Development."
 date:   2014-03-10 15:00:00
 categories: programacion
+tags: [R,programación,shiny]
+image:
+  feature: texture-feature-02.jpg
+  credit: José Manuel Prieto Blázquez
+  creditlink: http://jmprietob.github.io
 comments: true
-tags: [R]
+share: true
 ---
 
 Después de varios días de prueba, publico el código de la aplicación shiny para extraer datos de un archivo netcdf y generar unas gráficas para un punto dado.

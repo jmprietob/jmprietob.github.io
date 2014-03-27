@@ -5,20 +5,10 @@ title: Meteorología
 description: "Información general sobre meteo"
 tags: [meteo, prediccion]
 image:
-  feature: texture-feature-01.jpg
+  feature: texture-feature-02.jpg
   credit: José Manuel Prieto Blázquez
   creditlink: http://jmprietob.github.io
 ---
-
-<section id="table-of-contents" class="toc">
-  <header>
-    <h3 >Contenido</h3>
-  </header>
-<div id="drawer" markdown="1">
-*  Auto generated table of contents
-{:toc}
-</div>
-</section><!-- /#table-of-contents -->
 
 Un [modelo númerico de predicción meteorológica](http://es.wikipedia.org/wiki/Modelo_num%C3%A9rico_de_predicci%C3%B3n_meteorol%C3%B3gica) realiza, partiendo de un estado inicial con una atmósfera determinadas, una simulación de la evolución atmosférica a través de métodos numéricos.
 

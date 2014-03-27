@@ -1,9 +1,16 @@
 ---
 layout: post
 title:  "Modelo a partir del 6 de marzo"
+description: "Meteorology prediction."
 date:   2014-03-06 14:00:00
-categories: prediccion
+categories: programacion
+tags: [predicción, meteorología]
+image:
+  feature: texture-feature-02.jpg
+  credit: José Manuel Prieto Blázquez
+  creditlink: http://jmprietob.github.io
 comments: true
+share: true
 ---
 
 Estas animaciones han sido realizadas con el software [IDV](http://www.unidata.ucar.edu). Los datos son de [Meteogalicia]( http://www.meteogalicia.es/web/modelos/threddsIndex.action?request_locale=es).

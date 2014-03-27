@@ -1,44 +1,44 @@
 title:            De todo un poco
-tagline:          bloc de notas, pie de pagina, posit...
 description:      Desde GIS hasta costura.
+logo:             site-logo.png
 disqus_shortname: jmprietob
-# Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://jmprietob.github.io
+search:           true
+# Change url to your domain. Leave localhost server or blank when working locally.
+url:              http://localhost:4000 #http://jmprietob.github.io
 
 # Owner/author information
 owner:
-  name:           Jose Manuel Prieto
+  name:           José Manuel Prieto
   avatar:         perso.jpg
-  bio:            "bloc de notas, pie de pagina, posit..."
   email:          jmprietob@gmail.com
-  # Social networking links are used in author-bio sidebar. Update and remove as you like.
+  # Social networking links used in footer. Update and remove as you like.
   twitter: jmprietob        
   facebook:       
   github: jmprietob        
   linkedin: josemanuelprietoblazquez
   instagram: jmprietob
   lastfm:         
-  tumblr:         
+  tumblr:   
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:   
+  google_plus:    
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: UA-47639338-1  
 google_verify:      
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:        
+bing_verify:         
 
 # Links to include in top navigation
 # For external links add external: true
 links:
   - title: Sobre mi
     url: /about/
-  - title: Posts
-    url: /posts/
+  - title: Notas
+    url: /notas/
   - title: Meteorología
     url: /meteo/
   - title: CV
-    url: /cv/	
+    url: /cv/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/Madrid
@@ -64,4 +64,4 @@ kramdown:
     coderay_css: class
 
 include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
+exclude: ["lib", "config.rb", "Gemfile", "Capfile", "Gemfile.lock", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]

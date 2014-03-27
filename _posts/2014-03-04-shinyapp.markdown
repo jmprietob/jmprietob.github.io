@@ -1,9 +1,16 @@
 ---
 layout: post
 title:  "Aplicación Shiny"
+description: "R Development"
 date:   2014-03-04 09:00:00
 categories: programacion
+tags: [R,programación,shiny]
+image:
+  feature: texture-feature-02.jpg
+  credit: José Manuel Prieto Blázquez
+  creditlink: http://jmprietob.github.io
 comments: true
+share: true
 ---
 
 Tras unos días trasteando con [R](www.r-project.org), su libreria [shiny](www.rstudio.com/shiny/), [Rstudio](www.rstudio.com), y [my.shinyapps.io](https://my.shinyapps.io/), he consegido desarrollar una aplicación sencilla.

@@ -2,7 +2,6 @@
 layout: page
 permalink: /about/
 title: Sobre mi
-tagline: De todo un poco
 tags: [about]
 modified: 1-1-2014
 image:

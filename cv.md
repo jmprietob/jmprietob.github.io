@@ -10,16 +10,6 @@ image:
   creditlink: http://jmprietob.github.io
 ---
 
-<section id="table-of-contents" class="toc">
-  <header>
-    <h3 >Contenido</h3>
-  </header>
-<div id="drawer" markdown="1">
-*  Auto generated table of contents
-{:toc}
-</div>
-</section><!-- /#table-of-contents -->
-
 Notas generales de mi formación y experiencia.
 
 ## **FORMACIÓN ACADEMICA**
