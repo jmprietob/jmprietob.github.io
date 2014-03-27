@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "Modelo a partir del 27 de marzo"
+date:   2014-03-27 11:00:00
+categories: prediccion
+comments: true
+tags: [predicción, meteo]
+---
+
+Estas animaciones han sido realizadas con el software [IDV](http://www.unidata.ucar.edu). Los datos son de [Meteogalicia]( http://www.meteogalicia.es/web/modelos/threddsIndex.action?request_locale=es).
+
+#### Precipitación
+La animación se compone de un mapa de nubosidad (nubes medias y bajas), de la cantidad de precipitación y nieve (naranja).
+<figure>
+	<img src="/images/prec_27-03-2014.gif">
+</figure>
+
+#### Viento
+En esta ocasión hay un mapa base de velocidad y la dirección se representa con flechas de diferentes tamaños según su velocidad.
+<figure>
+	<img src="/images/viento_27-03-2014.gif">
+</figure>
+
+#### Un punto concreto
+También he actualizado los datos de la [aplicación meteo](https://jmprietob.shinyapps.io/meteo/) donde con los datos de latitud y longitud de un punto se extraen datos de precipitación, temperatura y cota de nieve(datos dentro de España).
+
+
