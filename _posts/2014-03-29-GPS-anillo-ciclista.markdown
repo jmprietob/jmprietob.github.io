@@ -35,7 +35,7 @@ Había utilizado R para leer GPX de puntos (waypoints) con la librería XML (GPX
 
 Investigando, hay varias maneras de leer `tracks` a través de diferentes librerías `Rgdal`, `maptools`, `plotkml`. 
 
-En este caso he utilizado `plotKML` que tiene una función `readGPX` que nos devuelve un objeto `list con diferente información del archivo `GPX` (tracks, waypoints, routes, bounds, metadata).
+En este caso he utilizado `plotKML` que tiene una función `readGPX` que nos devuelve un objeto `list` con diferente información del archivo `GPX` (tracks, waypoints, routes, bounds, metadata).
 
 El siguiente script lee el archivo GPX, calcula distancias parciales, acumuladas y velocidad media, genera unos mapas con el recorrido y unos perfiles longitudinales.
 
