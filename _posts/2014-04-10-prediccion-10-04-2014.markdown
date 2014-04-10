@@ -18,13 +18,13 @@ Estas animaciones han sido realizadas con el software [IDV](http://www.unidata.u
 #### Precipitación
 La animación se compone de un mapa de nubosidad (nubes medias y bajas), de la cantidad de precipitación y nieve (naranja).  
 <figure>
-	<img align="middle" src="/images/prec_10-04-2014.gif">
+	<img src="/images/prec_10-04-2014.gif">
 </figure>
 
 #### Viento
 Mapa base de velocidad (en metros por segundo) con la dirección del viento representada en líneas de flujo.
 <figure>
-	<img align="middle" src="/images/viento_10-04-2014.gif">
+	<img src="/images/viento_10-04-2014.gif">
 </figure>
 
 #### Un punto concreto
