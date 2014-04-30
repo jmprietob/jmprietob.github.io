@@ -1,0 +1,33 @@
+---
+layout: post
+title:  "Modelo a partir del 30 de abril"
+description: "Meteorology prediction."
+date:   2014-04-30 12:00:00
+categories: prediccion
+tags: [predicción, meteorología]
+image:
+  feature: texture-feature-02.jpg
+  credit: José Manuel Prieto Blázquez
+  creditlink: http://jmprietob.github.io
+comments: true
+share: true
+---
+
+Estas animaciones han sido realizadas con el software [IDV](http://www.unidata.ucar.edu). Los datos son de [Meteogalicia]( http://www.meteogalicia.es/web/modelos/threddsIndex.action?request_locale=es).
+
+#### Precipitación
+La animación se compone de un mapa de nubosidad (nubes medias y bajas), de la cantidad de precipitación y nieve (naranja).  
+<figure>
+	<img src="/images/prec_30-04-2014.gif">
+</figure>
+
+#### Viento
+Mapa base de velocidad (en metros por segundo) con la dirección del viento representada en líneas de flujo.
+<figure>
+	<img src="/images/viento_30-04-2014.gif">
+</figure>
+
+#### Un punto concreto
+También he actualizado los datos de la [aplicación meteo](https://jmprietob.shinyapps.io/meteo/) donde con los datos de latitud y longitud de un punto se extraen datos de precipitación, temperatura y cota de nieve(datos dentro de España).
+
+
