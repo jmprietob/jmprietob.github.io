@@ -25,10 +25,10 @@ Mapa base de velocidad (en metros por segundo) con la dirección del viento repr
 </figure>
 
 #### Un punto concreto
-También he actualizado los datos de la [aplicación meteo](https://jmprietob.shinyapps.io/meteo/) donde con los datos de latitud y longitud de un punto se extraen datos de precipitación, temperatura y cota de nieve(datos dentro de España).
+También he actualizado los datos de la [aplicación meteo](https://jmprietob.shinyapps.io/meteo/) donde con los datos de latitud y longitud de un punto se extraen datos de precipitación, temperatura y cota de nieve(datos para la España peninsular).
 
 
-Un [modelo númerico de predicción meteorológica](http://es.wikipedia.org/wiki/Modelo_num%C3%A9rico_de_predicci%C3%B3n_meteorol%C3%B3gica) realiza, partiendo de un estado inicial con una atmósfera determinadas, una simulación de la evolución atmosférica a través de métodos numéricos.
+Un [modelo numérico de predicción meteorológica](http://es.wikipedia.org/wiki/Modelo_num%C3%A9rico_de_predicci%C3%B3n_meteorol%C3%B3gica) realiza, partiendo de un estado inicial con una atmósfera determinadas, una simulación de la evolución atmosférica a través de métodos numéricos.
 
 ## Información general
 

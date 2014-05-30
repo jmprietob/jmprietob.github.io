@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Modelo a partir del 30 de mayo"
+description: "Meteorology prediction."
+date:   2014-05-30 10:00:00
+categories: prediccion
+tags: [predicción, meteorología]
+image:
+  feature: texture-feature-02.jpg
+  credit: José Manuel Prieto Blázquez
+  creditlink: http://jmprietob.github.io
+comments: true
+share: true
+---
+
+Actualizados las animaciones de precipitación y viento para los próximos cuatro días. Se encuentran en la sección [meteorología](http://jmprietob.github.io/meteo/) del blog.
+
+También he actualizado la [aplicación meteo](https://jmprietob.shinyapps.io/meteo/) donde con los datos de latitud y longitud de un punto se extraen datos de precipitación, temperatura y cota de nieve para los próximos 4 días(datos para la España peninsular).
+
+
