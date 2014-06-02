@@ -10,7 +10,7 @@ image:
   creditlink: http://jmprietob.github.io
 ---
 
-## Predicción a partir del 22 de mayo
+## Predicción a partir del 2 de junio
 
 #### Precipitación
 La animación se compone de un mapa de nubosidad (nubes medias y bajas), de la cantidad de precipitación y nieve (naranja).  
@@ -25,12 +25,11 @@ Mapa base de velocidad (en metros por segundo) con la dirección del viento repr
 </figure>
 
 #### Un punto concreto
-También he actualizado los datos de la [aplicación meteo](https://jmprietob.shinyapps.io/meteo/) donde con los datos de latitud y longitud de un punto se extraen datos de precipitación, temperatura y cota de nieve(datos para la España peninsular).
-
-
-Un [modelo numérico de predicción meteorológica](http://es.wikipedia.org/wiki/Modelo_num%C3%A9rico_de_predicci%C3%B3n_meteorol%C3%B3gica) realiza, partiendo de un estado inicial con una atmósfera determinadas, una simulación de la evolución atmosférica a través de métodos numéricos.
+También he actualizado los datos de la [aplicación meteo](https://jmprietob.shinyapps.io/meteo/) donde introduciendo una localidad se extraen datos de precipitación, temperatura y cota de nieve(datos para la España peninsular).
 
 ## Información general
+
+Un [modelo numérico de predicción meteorológica](http://es.wikipedia.org/wiki/Modelo_num%C3%A9rico_de_predicci%C3%B3n_meteorol%C3%B3gica) realiza, partiendo de un estado inicial con una atmósfera determinadas, una simulación de la evolución atmosférica a través de métodos numéricos.
 
 #### Sobre el modelo
 El modelo utilizado es el [WRF](http://www.wrf-model.org), que se basa en el modelo [GFS](http://es.wikipedia.org/wiki/Global_Forecast_System) (un modelo más global). El modelo WRF cubre casi toda Europa y el Mediterraneo. Las condiciones iniciales y los límites vienen del modelo GFS. Las previsiones incluyen velocidad, dirección y rafagas de viento, temperatura, nubosidad total y precipitaciones. 
