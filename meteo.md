@@ -10,10 +10,10 @@ image:
   creditlink: http://jmprietob.github.io
 ---
 
-## Predicción a partir del 12 de junio
+## Predicción a partir del 19 de junio
 
 #### Precipitación
-La animación se compone de un mapa de nubosidad (nubes medias y bajas), de la cantidad de precipitación y nieve (naranja).  
+La animación se compone de un mapa de nubosidad (nubes medias y bajas), de la cantidad de precipitación.  
 <figure>
 	<img src="/images/precipitacion.gif">
 </figure>
