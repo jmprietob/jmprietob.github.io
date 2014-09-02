@@ -24,9 +24,11 @@ Proyecto final de carrera: Aplicación de los Sistemas de Información Geográfi
 
 ## **EXPERIENCIA LABORAL**
 
-- (Noviembre 2013 - actualidad) **Academia Itaca. Profesor de apoyo de Inglés**:
+- (Septiembre 2014 - Actualidad) **ESMA SL. Técnico GIS - Analista GIS**:
+: Sistemas de Información Geográfica, Teledetección, aplicaciones informáticas, Medioambiente, Redes de Sanidad Forestal, Calidad Cartográfica, Inventario Forestal.
+- (Noviembre 2013 - Marzo 2014) **Academia Itaca. Profesor de apoyo de Inglés**:
 : Clases de repaso estudiantes desde primaria a bachillerato.
-- (Diciembre 2008 - 0ctubre 2012) **ESMA. Técnico GIS, Análisis Territorial y Desarrollo**:
+- (Diciembre 2008 - 0ctubre 2012) **ESMA SL. Técnico GIS, Análisis Territorial y Desarrollo**:
 : Análisis y desarrollo de metodologías para estudios territoriales.
 : Análisis y desarrollo de aplicaciones informáticas para explotación de datos.
 : Análisis de los requisitos y explotación de GIS (formatos, proyección, terreno, capas, etc.) 
