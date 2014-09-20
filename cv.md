@@ -24,9 +24,11 @@ Proyecto final de carrera: Aplicación de los Sistemas de Información Geográfi
 
 ## **EXPERIENCIA LABORAL**
 
-- (Noviembre 2013 - actualidad) **Academia Itaca. Profesor de apoyo de Inglés**:
+- (Septiembre 2014 - Actualidad) **ESMA SL. Técnico GIS - Analista GIS**:
+: Sistemas de Información Geográfica, Teledetección, aplicaciones informáticas, Medioambiente, Redes de Sanidad Forestal, Calidad Cartográfica, Inventario Forestal.
+- (Noviembre 2013 - Marzo 2014) **Academia Itaca. Profesor de apoyo de Inglés**:
 : Clases de repaso estudiantes desde primaria a bachillerato.
-- (Diciembre 2008 - 0ctubre 2012) **ESMA. Técnico GIS, Análisis Territorial y Desarrollo**:
+- (Diciembre 2008 - 0ctubre 2012) **ESMA SL. Técnico GIS, Análisis Territorial y Desarrollo**:
 : Análisis y desarrollo de metodologías para estudios territoriales.
 : Análisis y desarrollo de aplicaciones informáticas para explotación de datos.
 : Análisis de los requisitos y explotación de GIS (formatos, proyección, terreno, capas, etc.) 
@@ -78,7 +80,8 @@ Proyecto final de carrera: Aplicación de los Sistemas de Información Geográfi
 
 - (2014) **Compunting for Data Analisys**. MOOC. [www.coursera.com](www.coursera.com).
 - (2014) **Desarrollo de Aplicaciones en HTML5 y para Dispositivos Móviles Firefox OS**. MOOC. [www.miriadax.com](www.miriadax.com).
-- (2013) **Aplicaciones de R para el análisis de datos en ecosistemas forestales**. Departamento de Geomática y el Grupo de Investigación "ERSAF" del Departamento de Ingeniería Forestal de la Escuela Técnica Superior de Ingeniería Agronómica y de Montes. Universidad de Córdoba. (75 horas)    
+- (2013) **Aplicaciones de R para el análisis de datos en ecosistemas forestales**. Departamento de Geomática y el Grupo de Investigación "ERSAF" del Departamento de Ingeniería Forestal de la Escuela Técnica Superior de Ingeniería Agronómica y de Montes. Universidad de Córdoba. (75 horas)
+- (2013) **Curso de bases de datos espaciales: PostGIS 2**. Universidad Politécnica de Valencia. (87,5 horas)
 - (2013) **Métodos avanzados en estadística aplicada**. (Nº de Créditos ECTS: 25). UNED
 - (2013) **Arduino aplicado a la monitorización ambiental**. Departamento de Geomática y el Grupo de Investigación "ERSAF" del Departamento de Ingeniería Forestal de la Escuela Técnica Superior de Ingeniería Agronómica y de Montes. Universidad de Córdoba. (75 horas)
 - (2013) **Master programación GIS con PYTHON**. [Geospatial training services español](http://geospatialtraininges.com). (160 horas)
